@@ -16,3 +16,5 @@ This is my capstone project for Frontend Engineering internship at FlyRankAI. Te
 ## Notes for Claude Code
 - Ask before making large structural changes
 - Flag any assumptions made about the stack, since it's not finalized yet
+
+ This project follows Conventional Commits for all commit messages.
